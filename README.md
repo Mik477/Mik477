@@ -35,7 +35,7 @@
     </td>
     <td width="40%">
       <!-- PLACEHOLDER: Upload a GIF or Photo of your drone to your repo and link it here -->
-      <img src="" alt="BURA UAV Flight">
+      <img src="https://github.com/Mik477/Mik477/blob/main/4.JPG" alt="BURA UAV Flight">
     </td>
   </tr>
 </table>
