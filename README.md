@@ -57,7 +57,7 @@
     </td>
     <td width="40%">
       <!-- PLACEHOLDER: Upload a GIF of your bounding boxes/tracking to your repo -->
-      <img src="" alt="Vehicle Tracking Demo">
+      <img src="https://github.com/Mik477/Mik477/blob/main/comparison.gif" alt="Vehicle Tracking Demo">
     </td>
   </tr>
 </table>
