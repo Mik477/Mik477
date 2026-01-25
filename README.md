@@ -1,6 +1,10 @@
 <!-- HEADER SECTION -->
 <h1 align="center">Hi, I'm Miká Müller.</h1>
-<h3 align="center">Data Scientist & Systems Engineer</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+%26+Systems+Engineer;Building+Autonomous+UAVs;Computer+Vision+%26+AI;Hardware+%2B+Software+Integration;Synthetic+Data+Generation&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000&color=36BCF7&vCenter=true&random=false" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   I bridge the gap between <b>Data Science</b>, <b>Computer Vision</b>, and <b>Hardware Engineering</b>. <br>
